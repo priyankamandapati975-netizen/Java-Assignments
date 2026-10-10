@@ -4,7 +4,6 @@ import com.airtribe.learntrack.entity.Course;
 import com.airtribe.learntrack.entity.Enrollment;
 import com.airtribe.learntrack.entity.Status;
 import com.airtribe.learntrack.entity.Student;
-import com.airtribe.learntrack.exception.EntityNotFoundException;
 import com.airtribe.learntrack.service.CourseService;
 import com.airtribe.learntrack.service.EnrollmentService;
 import com.airtribe.learntrack.service.StudentService;

@@ -1,7 +1,6 @@
 package com.airtribe.learntrack.service;
 
 import com.airtribe.learntrack.entity.Student;
-import com.airtribe.learntrack.exception.EntityNotFoundException;
 
 import java.util.ArrayList;
 import java.util.List;

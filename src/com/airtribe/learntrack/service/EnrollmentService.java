@@ -2,7 +2,6 @@ package com.airtribe.learntrack.service;
 
 import com.airtribe.learntrack.entity.Enrollment;
 import com.airtribe.learntrack.entity.Status;
-import com.airtribe.learntrack.exception.EntityNotFoundException;
 
 import java.util.ArrayList;
 
